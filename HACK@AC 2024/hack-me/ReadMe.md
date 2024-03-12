@@ -1,5 +1,4 @@
 # Forensics - Hack Me :)
-- Credits to: Elession
 - Flag: ACSI{0mGGGG!!!!_H0w_d1d_y0u_H@cK_mY_w1fI????}
 
 ## Writeup
