@@ -1,9 +1,9 @@
 # OSINT - Relic Race
 - Solved by: DocileMango
-- Flag: STANDCONE{N4 2AW}
+- Flag: STANDCON{N4 2AW}
 
 ## Writeup
-Note: The flag will be in STANDCONP{} format with a postal code as the answer
+Note: The flag will be in STANDCON{} format with a postal code as the answer
 
 Looking at the image that was given:
 
