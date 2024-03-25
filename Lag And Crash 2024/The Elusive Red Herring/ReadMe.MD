@@ -1,6 +1,4 @@
 # Forensics - The Elusive Red Herring
-Solved by: DocileMango, Omuulet, Xenohybe
-
 Flag: LNC24{d0nT_f4LL_4_r3d_h3rR1nG5!}
 
 ## Write Up
