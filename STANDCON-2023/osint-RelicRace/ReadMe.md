@@ -1,5 +1,4 @@
 # OSINT - Relic Race
-- Solved by: DocileMango
 - Flag: STANDCON{N4 2AW}
 
 ## Writeup
