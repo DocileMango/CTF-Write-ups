@@ -16,7 +16,7 @@ After that, we look at the other functions:
 
 ![](./Images/image3.png)
 
-What 'pyre_1' basically does is that it takes in to parameters as bytes, and returns them as bytes. The function performs a simple XOR operation between 'msg' and 'key'.
+What 'pyre_1' basically does is that it takes in 2 parameters as bytes, and returns them as bytes. The function performs a simple XOR operation between 'msg' and 'key'.
 
 As for the 'test_flag' function, it takes in to parameters, 'flag' as bytes and 'test_str' as a string. What it does is that is basically splits the 'test_str' into 'key' and 'ct' and decodes them using 'urlsafe_b64decode'. It then compares it with the results of 'pyre_1' function with the decoded 'ct'.
 
